@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="280"
+   height="340"
+   viewBox="0 0 280 340"
+   fill="none"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="airballoon_logo_symbol-borders.svg"
+   inkscape:export-filename="/mnt/Dev/@air-balloon/data/logo/airballoon_logo_symbol-borders_1024_843.png"
+   inkscape:export-xdpi="289.12943"
+   inkscape:export-ydpi="289.12943"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nd/4.0/" />
+        <dc:source></dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Adriano Cahete</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nd/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
+     id="namedview16"
+     showgrid="false"
+     inkscape:zoom="0.69411765"
+     inkscape:cx="149.36441"
+     inkscape:cy="170"
+     inkscape:window-x="0"
+     inkscape:window-y="40"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <!-- This work by <a rel="license" href="https://adrianocahete.dev/">Adriano Cahete</a> is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a>. -->
+  <rect
+     x="119.63747"
+     y="269.62952"
+     width="42.085602"
+     height="42.085602"
+     rx="8.0933847"
+     id="rect2"
+     style="fill:#07689f;stroke-width:0.80933851" />
+  <circle
+     cx="140.71265"
+     cy="149.84743"
+     r="112.49805"
+     id="circle4"
+     style="fill:#ffffff;stroke-width:0.80933851" />
+  <path
+     d="m 139.49864,37.349249 c 0,0 -44.630003,-3.237348 -79.720007,33.992256 0,0 -33.587588,31.564205 -32.373619,80.529265 1.213965,48.96498 32.373619,76.07782 32.373619,76.07782 36.824821,37.23847 79.720007,34.39688 79.720007,34.39688 0,0 -83.362192,-37.63424 -83.362192,-110.4747 0,-72.840551 83.362192,-114.521521 83.362192,-114.521521 z"
+     id="path6"
+     inkscape:connector-curvature="0"
+     style="fill:#07689f;stroke-width:0.80933851" />
+  <path
+     d="m 115.18611,151.87077 c 0,-72.840631 25.08949,-114.592574 25.08949,-114.592574 0,0 -64.342409,35.206176 -61.509724,114.592574 2.832685,79.38639 61.914394,110.40348 61.914394,110.40348 0,0 -25.49416,-37.56302 -25.49416,-110.40348 z"
+     id="path8"
+     inkscape:connector-curvature="0"
+     style="fill:#07689f;stroke-width:0.80933851" />
+  <path
+     d="m 166.17443,151.87077 c 0,-72.840631 -25.08949,-114.592574 -25.08949,-114.592574 0,0 64.34241,35.206176 61.50973,114.592574 -2.83269,79.38639 -61.9144,110.40348 -61.9144,110.40348 0,0 25.49416,-37.56302 25.49416,-110.40348 z"
+     id="path10"
+     inkscape:connector-curvature="0"
+     style="fill:#07689f;stroke-width:0.80933851" />
+  <path
+     d="m 141.52198,262.32443 c 0,0 44.62936,3.23735 79.71985,-33.99222 0,0 33.58754,-31.5642 32.37354,-80.52918 -1.21401,-48.965301 -32.37354,-76.078142 -32.37354,-76.078142 -36.82491,-37.2387 -79.71985,-34.396933 -79.71985,-34.396933 0,0 83.36187,37.634284 83.36187,110.475075 0,72.84047 -83.36187,114.5214 -83.36187,114.5214 z"
+     id="path12"
+     inkscape:connector-curvature="0"
+     style="fill:#07689f;stroke-width:0.80933851" />
+</svg>
